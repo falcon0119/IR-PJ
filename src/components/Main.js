@@ -34,6 +34,94 @@ class Main extends React.Component {
         image: 'https://plaid.co.jp/assets/img/press/media/p140825/plaid-logo.png',
         introduction: '説明',
       },
+      {
+        
+        image: 'https://plaid.co.jp/assets/img/press/media/p140825/plaid-logo.png',
+        introduction: '説明',
+      },
+      {
+        
+        image: 'https://plaid.co.jp/assets/img/press/media/p140825/plaid-logo.png',
+        introduction: '説明',
+      }, {
+        
+        image: 'https://plaid.co.jp/assets/img/press/media/p140825/plaid-logo.png',
+        introduction: '説明',
+      }, {
+        
+        image: 'https://plaid.co.jp/assets/img/press/media/p140825/plaid-logo.png',
+        introduction: '説明',
+      }, {
+        
+        image: 'https://plaid.co.jp/assets/img/press/media/p140825/plaid-logo.png',
+        introduction: '説明',
+      }, {
+        
+        image: 'https://plaid.co.jp/assets/img/press/media/p140825/plaid-logo.png',
+        introduction: '説明',
+      }, {
+        
+        image: 'https://plaid.co.jp/assets/img/press/media/p140825/plaid-logo.png',
+        introduction: '説明',
+      },{
+        
+        image: 'https://plaid.co.jp/assets/img/press/media/p140825/plaid-logo.png',
+        introduction: '説明',
+      },
+      {
+        
+        image: 'https://plaid.co.jp/assets/img/press/media/p140825/plaid-logo.png',
+        introduction: '説明',
+      }, {
+        
+        image: 'https://plaid.co.jp/assets/img/press/media/p140825/plaid-logo.png',
+        introduction: '説明',
+      }, {
+        
+        image: 'https://plaid.co.jp/assets/img/press/media/p140825/plaid-logo.png',
+        introduction: '説明',
+      }, {
+        
+        image: 'https://plaid.co.jp/assets/img/press/media/p140825/plaid-logo.png',
+        introduction: '説明',
+      }, {
+        
+        image: 'https://plaid.co.jp/assets/img/press/media/p140825/plaid-logo.png',
+        introduction: '説明',
+      }, {
+        
+        image: 'https://plaid.co.jp/assets/img/press/media/p140825/plaid-logo.png',
+        introduction: '説明',
+      },{
+        
+        image: 'https://plaid.co.jp/assets/img/press/media/p140825/plaid-logo.png',
+        introduction: '説明',
+      },
+      {
+        
+        image: 'https://plaid.co.jp/assets/img/press/media/p140825/plaid-logo.png',
+        introduction: '説明',
+      }, {
+        
+        image: 'https://plaid.co.jp/assets/img/press/media/p140825/plaid-logo.png',
+        introduction: '説明',
+      }, {
+        
+        image: 'https://plaid.co.jp/assets/img/press/media/p140825/plaid-logo.png',
+        introduction: '説明',
+      }, {
+        
+        image: 'https://plaid.co.jp/assets/img/press/media/p140825/plaid-logo.png',
+        introduction: '説明',
+      }, {
+        
+        image: 'https://plaid.co.jp/assets/img/press/media/p140825/plaid-logo.png',
+        introduction: '説明',
+      }, {
+        
+        image: 'https://plaid.co.jp/assets/img/press/media/p140825/plaid-logo.png',
+        introduction: '説明',
+      },
       
     ];
 
