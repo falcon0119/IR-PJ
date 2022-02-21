@@ -129,7 +129,7 @@ class Main extends React.Component {
       <div className='main-wrapper'>
         <div className='main'>
           <div className='copy-container'>
-            <h1>IR-2</h1>
+            <h1>IR MUSEUM</h1>
             
           </div>
            
